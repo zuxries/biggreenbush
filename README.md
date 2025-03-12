@@ -1,3 +1,6 @@
+[![BigGreenBush's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=biggreenbush&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+
 ## Hello!
 ### Did you know what i can?
 
@@ -6,5 +9,3 @@
 > - More nothing
 > - Again nothing
 > - Nothing lol
-
-[![BigGreenBush's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=biggreenbush&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
