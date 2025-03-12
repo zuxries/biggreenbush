@@ -7,4 +7,4 @@
 > - Again nothing
 > - Nothing lol
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biggreenbush)](https://github.com/anuraghazra/github-readme-stats)
+[![BigGreenBush's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=biggreenbush&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
